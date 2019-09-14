@@ -1,0 +1,23 @@
+{
+  "nombreApp" : "Componentes",
+  "Product" : [
+    {
+      "Codigo" : "10",
+      "Title" : "Producto 1",
+      "Descripcion": "Alertas",
+      "Precio": "1000"
+    },
+    {
+      "Codigo" : "20",
+      "Title" : "Producto 2",
+      "Descripcion": "Alertas",
+      "Precio": "1020"
+    },
+    {
+      "Codigo" : "30",
+      "Title" : "Producto 3",
+      "Descripcion": "Alertas",
+      "Precio": "5000"
+    }
+  ]
+}
